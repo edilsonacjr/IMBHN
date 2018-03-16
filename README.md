@@ -1,7 +1,7 @@
 # IMBHN
 
 This repository provides a reference implementation (Python) of the Inductive Model Based on Bipartite Heterogeneous Network (IMBHN)
-as described in [1](#inductive-model-generation-for-text-classification-using-a-bipartite-heterogeneous-network).
+as described in [[1]](#inductive-model-generation-for-text-classification-using-a-bipartite-heterogeneous-network).
 
 The code follows the scikit-learn framework, making it consistent with the scikit-learn APIs.
 
