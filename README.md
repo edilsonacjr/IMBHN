@@ -12,6 +12,7 @@ Please cite [1](#inductive-model-generation-for-text-classification-using-a-bipa
 
 
 [1] Rafael Geraldeli Rossi, Alneu de Andrade Lopes, Thiago de Paulo Faleiros, Solange Oliveira Rezende, [*Inductive model generation for text classification using a bipartite heterogeneous network*](https://doi.org/10.1007/s11390-014-1436-7)
+
 [2] Edilson A. Corrêa Jr, Alneu de A. Lopes, Diego R. Amancio, [*Word sense disambiguation: A complex network approach*](https://doi.org/10.1016/j.ins.2018.02.047)
 
 ```
