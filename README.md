@@ -1,14 +1,13 @@
 # IMBHN
 
-This repository provides a reference implementation (Python) of the Inductive Model Based on Bipartite Heterogeneous Network (IMBHN)
-as described in [[1]](#inductive-model-generation-for-text-classification-using-a-bipartite-heterogeneous-network).
+This repository provides a reference implementation (Python) of the Inductive Model Based on Bipartite Heterogeneous Network (IMBHN) as described in [[1]](#inductive-model-generation-for-text-classification-using-a-bipartite-heterogeneous-network). [[1]](#inductive-model-generation-for-text-classification-using-a-bipartite-heterogeneous-network) applies this algorithm to text classification and [[2]](#Word-sense-disambiguation-A-complex-network-approach) adapts it to the word sense disambiguation scenario.
 
 The code follows the scikit-learn framework, making it consistent with the scikit-learn APIs.
 
 
 ## References
 
-Please cite [1](#inductive-model-generation-for-text-classification-using-a-bipartite-heterogeneous-network) and [2](#Word-sense-disambiguation-A-complex-network-approach) if using this code.
+Please cite [[1]](#inductive-model-generation-for-text-classification-using-a-bipartite-heterogeneous-network) and [[2]](#Word-sense-disambiguation-A-complex-network-approach) if using this code.
 
 
 [1] Rafael Geraldeli Rossi, Alneu de Andrade Lopes, Thiago de Paulo Faleiros, Solange Oliveira Rezende, [*Inductive model generation for text classification using a bipartite heterogeneous network*](https://doi.org/10.1007/s11390-014-1436-7)
